@@ -2,9 +2,9 @@
 
  
  
-#### Original repositories i have downloaded the code from
+#### ROS package used
   
-	robot_localization
+	http://wiki.ros.org/robot_localization
 
 
 #### Description
