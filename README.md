@@ -2,8 +2,7 @@
 
  
  
-#### List of original repositories i have downloaded the code from
- --------------------------------------
+#### Original repositories i have downloaded the code from
   
 	robot_localization
 
