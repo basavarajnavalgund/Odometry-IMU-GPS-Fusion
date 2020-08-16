@@ -26,4 +26,4 @@ It runs 3 nodes:
 
 Also compared memory consumption of EKF and UKF nodes via htop
 
-#### Please refer folder for results
+Please refer **docs** folder for results
